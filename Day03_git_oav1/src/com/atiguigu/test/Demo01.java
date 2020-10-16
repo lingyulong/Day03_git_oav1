@@ -4,5 +4,6 @@ public class Demo01 {
 
 	public static void main(String[] args) {
 		System.out.println("local myecplise git 01");
+		System.out.println("local myecplise git 02");
 	}
 }
