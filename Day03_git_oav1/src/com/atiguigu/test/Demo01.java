@@ -6,5 +6,6 @@ public class Demo01 {
 		System.out.println("local myecplise git 01");
 		System.out.println("local myecplise git 02");
                 System.out.println("github update 03");
+		System.out.println("github update 04");
 	}
 }
